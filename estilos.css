@@ -1,0 +1,14 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+/* Este es un comentario en CSS */
+p {
+    font-size: 18px;
+    color: gray;
+}
